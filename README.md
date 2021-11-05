@@ -13,3 +13,8 @@ Contributors / Licensing
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 
+Reference
+===========
+https://www.w3schools.com/tags/ref_colornames.asp
+
+https://www.w3schools.com/html/html_images_background.asp
